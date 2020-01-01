@@ -1,7 +1,7 @@
 <div align="center">
-
-# Project Title
+<a href=""><img src="./.docs/logo.png" alt="Markdownify" width="200"/></a>
 <br>
+<h1>Project Title</h1>
 <h4>Project title tracking app built on top of <a href="https://reactjs.org/" target="_blank">ReactJS</a></h4>
 </div>
 
@@ -269,3 +269,4 @@ Run the `node_modules/.bin/readme generate` command and a README file will be ge
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [colored-line]: ./.docs/lines/colored.png
+[project-logo]: ./.docs/logo.png
